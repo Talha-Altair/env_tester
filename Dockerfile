@@ -1,4 +1,4 @@
-FROM python:3.9.7-slim-buster
+FROM docker.io/python:3.9.7-slim-buster
 
 ADD . /app
 
